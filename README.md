@@ -34,7 +34,7 @@ This is a simple calculator application implemented in Java Swing. It provides b
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/simple-calculator.git
+git clone https://github.com/14ChumBucket04/SimpleCalculator.git
 ```
 
 ## Compilation
